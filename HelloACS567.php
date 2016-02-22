@@ -1,3 +1,3 @@
 <?php
-	echo 'Hello1 ACS567';
+	echo 'Hello ACS567';
 ?>
